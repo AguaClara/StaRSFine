@@ -230,20 +230,32 @@ The difficult issue with air bubbles caused the use of not all extraction tubes,
 Another persistent issue is the availability of pumps that can function at a rate as high as the team needs. Also, in the Aguaclara filters, it is not customary to have water deliberately pulled from filters, rather than just having it come out on its own at a rate determined by the rate of water going in.
 #### Trial 4
 #### Trial 5
-The set up for Trial 5 remained effective in preventing sand from exiting. That being said, once the tank was filled to a point above all of the exits, the water level would drop once the fingers blocking the exits moved. The water would fall to the bottom exit and flow solely out of the one hole. The team suspected that this exit issue was due again to pressure differential, which led to the idea of submerging the outlets, as will be discussed in trial 6. 
+The set up for Trial 5 remained effective in preventing sand from exiting. That being said, once the tank was filled to a point above all of the exits, the water level would drop once the fingers blocking the exits moved. The water would fall to the bottom exit and flow solely out of the one hole. The team suspected that this exit issue was due again to pressure differential, which led to the idea of submerging the outlets, as will be discussed in trial 6.
 
 #### Trial 6
+Trial 6 was incredibly successful for the progress of this project. The submerged system worked seamlessly, and was the most authentic model of true Aguaclara sand filter systems thus far. The team conducted an initial test to see how the cup design would suffice, and, after proving its success, ran the trial at steady state for 30 minutes. This proved that the system could consistently pull water from the exclusion zones without sand also escaping.
 
-https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow.jpeg
+<p align="center"> <img
+src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow.jpeg" width= "300"> </p>
+<p align="center">
+  Figure . Water, without sand, coming from the outlet cup covering the outlet holes. Note, the water level
+</p>
 
-https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/ExtractioZones6.jpeg
+Although, it is important to note that the amount of water coming from each individual outlet hole is impossible to tell under these conditions. But, the system was clearly at steady state (water level not rising or falling) and, therefore, the rate that was going in (600 RPM) was coming out completely from all or at least one of the outlet holes. This rate is above the minimum extraction rate in plants, which means that this is a meaningful results for StaRS FInE.
+
+<p align="center"> <img
+src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/ExtractioZones6.jpeg
+" width= "300"> </p>
+<p align="center">
+  Figure . Successful exclusion zones forming during the 6th trial.
+</p>
 
 ## Conclusions
 
 Testing the apparatus with sand and water running at filtration speeds made the flaws in the apparatus used for experimentation clear, but not yet the problems with the "Christmas tree" design. The second trial showed that the top branch of the filter can handle high velocities of filtration without sand leaving in the outlet pipes, which is encouraging for predicting the success of this design. The third trial stands to show the strength of the exclusion zones that are formed by this design. There is work to be done regarding optimizing this design and implementing in true Aguaclara plants, but the team is hopeful regarding its progress.
 
 ## Future Work
-Based on the three trials completed so far this semester, the most pressing goal was to have an experiment where water was pulled from all three tubes. With consideration of plant limitations, the team could move forward to testing failure and finding the filtration velocity where sand begins to be pulled out with the water. If this velocity is reasonably high (i.e. much higher than any velocity expected in an AguaClara plant), the team will have a conversation about next steps necessary to implement the design in actual AguaClara plants. If the failure velocity is low or gravity exclusion zones don't form dependably, the team will need to try other designs. Variations of the design may include more or less branches, bigger spaces between branches, or potentially a new design entirely. The next trial would utilize the filter without extraction pumping, and hopefully begin to combat the issue with air and pressure differential.
+***Based on the three trials completed so far this semester, the most pressing goal was to have an experiment where water was pulled from all three tubes. With consideration of plant limitations, the team could move forward to testing failure and finding the filtration velocity where sand begins to be pulled out with the water. If this velocity is reasonably high (i.e. much higher than any velocity expected in an AguaClara plant), the team will have a conversation about next steps necessary to implement the design in actual AguaClara plants. If the failure velocity is low or gravity exclusion zones don't form dependably, the team will need to try other designs. Variations of the design may include more or less branches, bigger spaces between branches, or potentially a new design entirely. The next trial would utilize the filter without extraction pumping, and hopefully begin to combat the issue with air and pressure differential.***
 
 **[As someone who is not familiar with this subteam I had a really hard time understanding what the terms were, and why certain things were done. I think you guys can do a much better job at fleshing out the report, specifically at the introduction and previous work so that people who aren't as well versed can follow along better. I know that expanding it may seem self-evident, even redundant, to you but everything is neat and organized in your head, having connections between certain subjects that the audience, such as me, may not have. Overall I liked the report. Where the writing lacked, the diagrams helped me get a general idea of what was going on, but the writing could definitely improve.]**
 
