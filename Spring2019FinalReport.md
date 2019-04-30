@@ -238,7 +238,7 @@ Trial 6 was incredibly successful for the progress of this project. The submerge
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow.jpeg" width= "300"> </p>
 <p align="center">
-  Figure . Water, without sand, coming from the outlet cup covering the outlet holes. Note, the water level
+  Figure . Water, without sand, coming from the outlet cup covering the outlet holes. Note, the water level slightly above the cup, which was unaffected in the long term.
 </p>
 
 Although, it is important to note that the amount of water coming from each individual outlet hole is impossible to tell under these conditions. But, the system was clearly at steady state (water level not rising or falling) and, therefore, the rate that was going in (600 RPM) was coming out completely from all or at least one of the outlet holes. This rate is above the minimum extraction rate in plants, which means that this is a meaningful results for StaRS FInE.
