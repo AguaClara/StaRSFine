@@ -99,6 +99,8 @@ After considering the second trial, the team again revisited the flow rates. The
 In anticipation of failure, the team first decided to measure whether only one filter outlet could extract at the flow rate. To do so, the team planned on stopping flow from the upper two holes and attaching one pump to the injection tube one pump to the extraction tube. Therefore, the apparatus was designed so that the team could monitor the extraction zone and escape of sand into the outlet more closely.
 #### Trial 4
 #### Trial 5
+Following Trial 4, the team found that although the reactor was successfully not pulling sand, water exited solely the bottom hole of the reactor. The team presumed that when sand did exit, it was due to a pressure differential caused in that moment of blocking part of the exit. The team considered that in an AguaClara plant, the filter is open to the atmosphere, and as a result decided to remove the lid from the reactor, leaving the top open to the atmosphere. Other conditions, including flow rate and apparatus set-up remained the same as in previous trials.
+
 #### Trial 6
 The main goal for the sixth trial was to generate a system in which the extraction holes and filter were all submerged under water. This task was difficult for the team because there were no longer extraction tubes and it could not simply be submerged in water because of the sand and the need to regulate how much water was coming out.
 
@@ -160,6 +162,8 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial3S
 </p>
 #### Trial 4
 #### Trial 5
+As in the recent trial, the team added dry sand to the empty reactor and then filled the reactor with water. In contrast to previous trials, the team left the apparatus open to the atmosphere on top, leaving the lid off for the duration of experimentation.
+
 #### Trial 6
 To fabricate the cup shape that would generate the submerged system the team hoped, a 125 mL Nalgene sample bottle was cut in half to fit the side of the current apparatus and curved to generate a water-tight shape using the precision drill. The narrow top part of the bottle was also cut so that water could spill over the top. The team considered that the cup would have to cover all three of the outlet holes in choosing the use the bottle.
 
@@ -226,6 +230,8 @@ The difficult issue with air bubbles caused the use of not all extraction tubes,
 Another persistent issue is the availability of pumps that can function at a rate as high as the team needs. Also, in the Aguaclara filters, it is not customary to have water deliberately pulled from filters, rather than just having it come out on its own at a rate determined by the rate of water going in.
 #### Trial 4
 #### Trial 5
+The set up for Trial 5 remained effective in preventing sand from exiting. That being said, once the tank was filled to a point above all of the exits, the water level would drop once the fingers blocking the exits moved. The water would fall to the bottom exit and flow solely out of the one hole. The team suspected that this exit issue was due again to pressure differential, which led to the idea of submerging the outlets, as will be discussed in trial 6. 
+
 #### Trial 6
 
 https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow.jpeg
