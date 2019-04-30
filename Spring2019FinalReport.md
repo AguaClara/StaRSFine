@@ -98,8 +98,10 @@ After considering the second trial, the team again revisited the flow rates. The
 
 In anticipation of failure, the team first decided to measure whether only one filter outlet could extract at the flow rate. To do so, the team planned on stopping flow from the upper two holes and attaching one pump to the injection tube one pump to the extraction tube. Therefore, the apparatus was designed so that the team could monitor the extraction zone and escape of sand into the outlet more closely.
 #### Trial 4
+The fourth trial was the first trial with the extraction tubes removed from the apparatus. In actual AguaClara plants, the water is driven out of the filter by gravity, there are not electric pumps, which is the beauty of AguaClara technology. The team obtained a rubber cap and clamp for the top of the apparatus, thinking that the system would fill up and possibly overflow. It was discovered that this was not a concern because at steady-state, the water level does not rise above the level that the pressure from the atmosphere establishes. This pressure was an issue in this trial because water was only exiting from the bottom branch. If the holes were plugged in order to allow the whole apparatus to fill with water, the water would flow out from the three branches quickly until the water level was only above the last hole again. There was also a problem when the top was placed on during forward filtration that it pushed air into the reactor and forced sand out of the holes. No sand exited when the apparatus was left still and the exclusion zones were allowed to form.
+
 #### Trial 5
-Following Trial 4, the team found that although the reactor was successfully not pulling sand, water exited solely the bottom hole of the reactor. The team presumed that when sand did exit, it was due to a pressure differential caused in that moment of blocking part of the exit. The team considered that in an AguaClara plant, the filter is open to the atmosphere, and as a result decided to remove the lid from the reactor, leaving the top open to the atmosphere. Other conditions, including flow rate and apparatus set-up remained the same as in previous trials.
+Following Trial 4, the team found that although the reactor was successfully not pulling sand, water exited solely the bottom hole of the reactor. The team presumed that when sand did exit, it was due to a pressure differential caused in that moment by blocking part of the exit. The team considered that in an AguaClara plant, the filter is open to the atmosphere, and as a result decided to remove the lid from the reactor, leaving the top open to the atmosphere. Other conditions, including flow rate and apparatus set-up remained the same as in previous trials.
 
 #### Trial 6
 The main goal for the sixth trial was to generate a system in which the extraction holes and filter were all submerged under water. This task was difficult for the team because there were no longer extraction tubes and it could not simply be submerged in water because of the sand and the need to regulate how much water was coming out.
@@ -161,6 +163,13 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial3S
   Figure 7. Sand filling the apparatus before extraction.
 </p>
 #### Trial 4
+<p align="center"> <img
+src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/IMG_5276.JPG" width= "500"> </p>
+<p align="center">
+  Figure . The apparatus with a rubber cap and no extraction tubes. Note the formation of clean exclusion zones.
+</p>
+
+The apparatus was filled with water and then sand, then the cap was placed on while the water was still being pumped into the bottom. This initial pressure change of placing a cap on and forcing air into the apparatus and some sand out of the outlet. This suggested that this added pressure was an incorrect way of testing the filter.
 #### Trial 5
 As in the recent trial, the team added dry sand to the empty reactor and then filled the reactor with water. In contrast to previous trials, the team left the apparatus open to the atmosphere on top, leaving the lid off for the duration of experimentation.
 
@@ -227,8 +236,9 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Exclusi
 
 The difficult issue with air bubbles caused the use of not all extraction tubes, as the air bubbles existed in the upper two partitions that were plugged. The next move for the team would be to take steps to understand more about the pressure differential in the apparatus and determine a different way to extract from the filters.
 
-Another persistent issue is the availability of pumps that can function at a rate as high as the team needs. Also, in the Aguaclara filters, it is not customary to have water deliberately pulled from filters, rather than just having it come out on its own at a rate determined by the rate of water going in.
+Another persistent issue is the availability of pumps that can function at a rate as high as the team needs. Also, in the AguaClara filters, it is not customary to have water deliberately pulled from filters, rather than just having it come out on its own at a rate determined by the rate of water going in.
 #### Trial 4
+This trial solved some problems from Trial 3. Only one pump is necessary to pump water in from the bottom, and the air bubble issue presented itself in a different way. This time, the water level fell to just above the bottom hole.   
 #### Trial 5
 The set up for Trial 5 remained effective in preventing sand from exiting. That being said, once the tank was filled to a point above all of the exits, the water level would drop once the fingers blocking the exits moved. The water would fall to the bottom exit and flow solely out of the one hole. The team suspected that this exit issue was due again to pressure differential, which led to the idea of submerging the outlets, as will be discussed in trial 6.
 
@@ -241,21 +251,16 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow
   Figure . Water, without sand, coming from the outlet cup covering the outlet holes. Note, the water level slightly above the cup, which was unaffected in the long term.
 </p>
 
-Although, it is important to note that the amount of water coming from each individual outlet hole is impossible to tell under these conditions. But, the system was clearly at steady state (water level not rising or falling) and, therefore, the rate that was going in (600 RPM) was coming out completely from all or at least one of the outlet holes. This rate is above the minimum extraction rate in plants, which means that this is a meaningful results for StaRS FInE.
+https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow.jpeg
 
-<p align="center"> <img
-src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/ExtractioZones6.jpeg
-" width= "300"> </p>
-<p align="center">
-  Figure . Successful exclusion zones forming during the 6th trial.
-</p>
+https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/ExtractioZones6.jpeg
 
 ## Conclusions
 
-Testing the apparatus with sand and water running at filtration speeds made the flaws in the apparatus used for experimentation clear, but not yet the problems with the "Christmas tree" design. The second trial showed that the top branch of the filter can handle high velocities of filtration without sand leaving in the outlet pipes, which is encouraging for predicting the success of this design. The third trial stands to show the strength of the exclusion zones that are formed by this design. There is work to be done regarding optimizing this design and implementing in true Aguaclara plants, but the team is hopeful regarding its progress.
+Testing the apparatus with sand and water running at filtration speeds made the flaws in the apparatus used for experimentation clear, and has shown that the "Christmas tree" design can handle very high filtration speeds without failure. The second trial showed that the top branch of the filter can handle high velocities of filtration without sand leaving in the outlet pipes, which is encouraging for predicting the success of this design. The third trial stands to show the strength of the exclusion zones that are formed by this design. The fourth, fifth, and sixth trials have been progressively better at simulating how actual AguaClara plants function. There have been many indications that this design will not fail even at forward filtration speeds that are much faster than predicted. Because of the pressure issues that the team has found with the apparatus failures, there have been many tests where all of the water comes out of one outlet branch. This is a problem in testing the whole design, but at the sae time, it shows that each branch can handle a filtration speed three times faster than it needs to. This "safety factor" is encouraging as the team considers testing the branched design at Cornell's water treatment plant.
 
 ## Future Work
-***Based on the three trials completed so far this semester, the most pressing goal was to have an experiment where water was pulled from all three tubes. With consideration of plant limitations, the team could move forward to testing failure and finding the filtration velocity where sand begins to be pulled out with the water. If this velocity is reasonably high (i.e. much higher than any velocity expected in an AguaClara plant), the team will have a conversation about next steps necessary to implement the design in actual AguaClara plants. If the failure velocity is low or gravity exclusion zones don't form dependably, the team will need to try other designs. Variations of the design may include more or less branches, bigger spaces between branches, or potentially a new design entirely. The next trial would utilize the filter without extraction pumping, and hopefully begin to combat the issue with air and pressure differential.***
+Based on the three trials completed so far this semester, the most pressing goal was to have an experiment where water was pulled from all three tubes. With consideration of plant limitations, the team could move forward to testing failure and finding the filtration velocity where sand begins to be pulled out with the water. If this velocity is reasonably high (i.e. much higher than any velocity expected in an AguaClara plant), the team will have a conversation about next steps necessary to implement the design in actual AguaClara plants. If the failure velocity is low or gravity exclusion zones don't form dependably, the team will need to try other designs. Variations of the design may include more or less branches, bigger spaces between branches, or potentially a new design entirely. The next trial would utilize the filter without extraction pumping, and hopefully begin to combat the issue with air and pressure differential.
 
 **[As someone who is not familiar with this subteam I had a really hard time understanding what the terms were, and why certain things were done. I think you guys can do a much better job at fleshing out the report, specifically at the introduction and previous work so that people who aren't as well versed can follow along better. I know that expanding it may seem self-evident, even redundant, to you but everything is neat and organized in your head, having connections between certain subjects that the audience, such as me, may not have. Overall I liked the report. Where the writing lacked, the diagrams helped me get a general idea of what was going on, but the writing could definitely improve.]**
 
