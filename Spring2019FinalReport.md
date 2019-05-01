@@ -101,7 +101,14 @@ In anticipation of failure, the team first decided to measure whether only one f
 The fourth trial was the first trial with the extraction tubes removed from the apparatus. In actual AguaClara plants, the water is driven out of the filter by gravity, there are not electric pumps, which is the beauty of AguaClara technology. The team obtained a rubber cap and clamp for the top of the apparatus, thinking that the system would fill up and possibly overflow. It was discovered that this was not a concern because at steady-state, the water level does not rise above the level that the pressure from the atmosphere establishes. This pressure was an issue in this trial because water was only exiting from the bottom branch. If the holes were plugged in order to allow the whole apparatus to fill with water, the water would flow out from the three branches quickly until the water level was only above the last hole again. There was also a problem when the top was placed on during forward filtration that it pushed air into the reactor and forced sand out of the holes. No sand exited when the apparatus was left still and the exclusion zones were allowed to form.
 
 #### Trial 5
-Following Trial 4, the team found that although the reactor was successfully not pulling sand, water exited solely the bottom hole of the reactor. The team presumed that when sand did exit, it was due to a pressure differential caused in that moment by blocking part of the exit. The team considered that in an AguaClara plant, the filter is open to the atmosphere, and as a result decided to remove the lid from the reactor, leaving the top open to the atmosphere. Other conditions, including flow rate and apparatus set-up remained the same as in previous trials.
+
+As in the recent trial, the team added dry sand to the empty reactor and then filled the reactor with water. During trial 5 the same flow rate was used as that for trials three and four:
+
+| Injection Flow Rate | Extraction Flow Rate |
+| ------------------- | -------------------- |
+| 220.02 mL/s         | 36.67 mL/s           |
+
+Up to this point, the water successfully flowed from the outlets of the reactor without sand exiting, however the issue remained of air bubbles lodged between the branches of the reactor. The air bubble would move when different holes were blocked. The team hypothesized that this problem was caused by the pressure within the reactor caused by the lid that had been placed on top. In addition, the team presumed that when sand did exit, it was due to a pressure differential caused in that moment by blocking part of the exit. The team considered that in an AguaClara plant, the filter is open to the atmosphere, and as a result decided to remove the lid from the reactor, leaving the top open. The hope was that eliminating the lid would eliminated the air bubbles, which proved successful.
 
 #### Trial 6
 The main goal for the sixth trial was to generate a system in which the extraction holes and filter were all submerged under water. This task was difficult for the team because there were no longer extraction tubes and it could not simply be submerged in water because of the sand and the need to regulate how much water was coming out.
@@ -240,7 +247,9 @@ Another persistent issue is the availability of pumps that can function at a rat
 #### Trial 4
 This trial solved some problems from Trial 3. Only one pump is necessary to pump water in from the bottom, and the air bubble issue presented itself in a different way. This time, the water level fell to just above the bottom hole.   
 #### Trial 5
-The set up for Trial 5 remained effective in preventing sand from exiting. That being said, once the tank was filled to a point above all of the exits, the water level would drop once the fingers blocking the exits moved. The water would fall to the bottom exit and flow solely out of the one hole. The team suspected that this exit issue was due again to pressure differential, which led to the idea of submerging the outlets, as will be discussed in trial 6.
+The new apparatus set-up proved successful in dislodging the air bubbles that had previously caused concern. The set up for Trial 5 remained effective in preventing sand from exiting. The new set-up did cause a new concern - once the tank filled to a point above all outlets (with outlets blocked during filling), the water level would drop and exit solely through the bottom most outlet.
+
+The team suspected that this exit issue was due again to pressure differential, which led to the idea of submerging the outlets, as will be discussed in trial 6.
 
 #### Trial 6
 Trial 6 was incredibly successful for the progress of this project. The submerged system worked seamlessly, and was the most authentic model of true Aguaclara sand filter systems thus far. The team conducted an initial test to see how the cup design would suffice, and, after proving its success, ran the trial at steady state for 30 minutes. This proved that the system could consistently pull water from the exclusion zones without sand also escaping.
