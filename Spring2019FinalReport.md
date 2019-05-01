@@ -246,14 +246,11 @@ The set up for Trial 5 remained effective in preventing sand from exiting. That 
 Trial 6 was incredibly successful for the progress of this project. The submerged system worked seamlessly, and was the most authentic model of true Aguaclara sand filter systems thus far. The team conducted an initial test to see how the cup design would suffice, and, after proving its success, ran the trial at steady state for 30 minutes. This proved that the system could consistently pull water from the exclusion zones without sand also escaping.
 
 <p align="center"> <img
-src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow.jpeg" width= "300"> </p>
+src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow.png" width= "300"> </p>
 <p align="center">
   Figure . Water, without sand, coming from the outlet cup covering the outlet holes. Note, the water level slightly above the cup, which was unaffected in the long term.
 </p>
 
-https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow.jpeg
-
-https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/ExtractioZones6.jpeg
 
 ## Conclusions
 
