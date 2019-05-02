@@ -263,7 +263,7 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow
 
 ## Conclusions
 
-Testing the apparatus with sand and water running at filtration speeds made the flaws in the apparatus used for experimentation clear, and has shown that the "Christmas tree" design can handle very high filtration speeds without failure. The second trial showed that the top branch of the filter can handle high velocities of filtration without sand leaving in the outlet pipes, which is encouraging for predicting the success of this design. The third trial stands to show the strength of the exclusion zones that are formed by this design. The fourth, fifth, and sixth trials have been progressively better at simulating how actual AguaClara plants function. There have been many indications that this design will not fail even at forward filtration speeds that are much faster than predicted. Because of the pressure issues that the team has found with the apparatus failures, there have been many tests where all of the water comes out of one outlet branch. This is a problem in testing the whole design, but at the sae time, it shows that each branch can handle a filtration speed three times faster than it needs to. This "safety factor" is encouraging as the team considers testing the branched design at Cornell's water treatment plant.
+Testing the apparatus with sand and water running at filtration speeds made the flaws in the apparatus used for experimentation clear, and has shown that the "Christmas tree" design can handle very high filtration speeds without failure. The second trial showed that the top branch of the filter can handle high velocities of filtration without sand leaving in the outlet pipes, which is encouraging for predicting the success of this design. The third trial stands to show the strength of the exclusion zones that are formed by this design. The fourth, fifth, and sixth trials have been progressively better at simulating how actual AguaClara plants function. There have been many indications that this design will not fail even at forward filtration speeds that are much faster than predicted. Because of the pressure issues that the team has found with the apparatus failures, there have been many tests where all of the water comes out of one outlet branch. This is a problem in testing the whole design, but at the same time, it shows that each branch can handle a filtration speed three times faster than it needs to. This "safety factor" is encouraging as the team considers testing the branched design at Cornell's water treatment plant.
 
 ## Future Work
 Based on the three trials completed so far this semester, the most pressing goal was to have an experiment where water was pulled from all three tubes. With consideration of plant limitations, the team could move forward to testing failure and finding the filtration velocity where sand begins to be pulled out with the water. If this velocity is reasonably high (i.e. much higher than any velocity expected in an AguaClara plant), the team will have a conversation about next steps necessary to implement the design in actual AguaClara plants. If the failure velocity is low or gravity exclusion zones don't form dependably, the team will need to try other designs. Variations of the design may include more or less branches, bigger spaces between branches, or potentially a new design entirely. The next trial would utilize the filter without extraction pumping, and hopefully begin to combat the issue with air and pressure differential.
@@ -273,20 +273,28 @@ Based on the three trials completed so far this semester, the most pressing goal
 # Manual
 ## ProCoDa
 
-The ProCoDa used thus far in the semester has been limited to making sure the input and output peristaltic pumps are running at the correct velocity for their tube size. The team has not yet run an extended experiment regulated by ProCoDa.
+The ProCoDa used thus far in the semester has been limited to making sure the input and output peristaltic pumps are running at the correct flow rates for their tube size. The team has not yet run an extended experiment regulated by ProCoDa. Using some of the pre-made Aguaclara packages, flow rate and fluid mechanic calculations are made easier for teams in lab.
 
-For the peristaltic pump calculations, the states were as follows.
+For the peristaltic pump regulation calculations, the states were as follows.
 
 ### States
 
+<p align="center"> <img
+src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/PCD4.PNG" width= "500"> </p>
+<p align="center">
+  Figure . The list of ProCoDa states using in experimentation.
+</p>
+
 #### OFF
-The off state was used while the experiments were not run.
+The off state was used while the experiments were not run. Because the team only used ProCoDa for calculations, rather than collecting data, these states were not used often.
 
-#### INJECT
-The INJECT state used the set points *Just Water Flow* and *Water Tubing Size* to take into account the inlet flow rate in mL/s and the tubing size from inlet the peristaltic pump.
+#### Injection
+The INJECT state used the set points *Just Water Flow* and *Water Tubing Size* to take into account the inlet flow rate in mL/s and the tubing size from inlet the peristaltic pump. As demonstrated above in figure ____, the *Just Water Pump* state outputs the value in revolutions per minute (RPM) divided by 100.
 
-#### EXTRACT
-The EXTRACT state used the set points *Outlet Flow* and *Outlet Tubing Size* to take into account the outlet flow rate in mL/s and the tubing size from the outlet peristaltic pump.
+#### Extraction
+The EXTRACT state used the set points *Outlet Flow* and *Outlet Tubing Size* to take into account the outlet flow rate in mL/s and the tubing size from the outlet peristaltic pump.*Outlet Pump*, used in the first three trials only, was setting the outlet flow rate for the peristaltic pump.
+
+
 
 ## Python Code
 ### Variables
@@ -370,7 +378,8 @@ https://cad.onshape.com/documents/2e536bd8940f20fc75058241/w/42817f17b88f823e779
 * 3-D printed "Chrismas tree" (printed by Paul)
 * Sand (obtained from available lab materials)
 * Water from tap
-* Peristaltic pump Tubing,size 18 (available in lab)
+* Peristaltic pump Tubing, size 18 (available in lab)
 * Tubing used in apparatus (available lab materials)
 * Peristaltic Pumps 100-600 RPM
 * PVC Glue
+* Nalgene 125 mL bottle (available in lab)
