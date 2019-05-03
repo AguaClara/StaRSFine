@@ -153,7 +153,7 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Inverte
 **[Why was the sand colored?]**
 
 #### Trial 2
-In the second trial, the team drained the water and sand from the prototype. To better simulate plant conditions, Monroe suggested that the team first fill the prototype with water, and add sand from the top. This would create sand exclusion zones initially, that just needed to be maintained during water flow.
+In the second trial, the team drained the water and sand from the prototype. To better simulate plant conditions, Monroe suggested that the team first fill the prototype with water, and add sand from the top. This would create sand exclusion zones initially which would be maintained during water flow through the filter.
 
 Also, to prevent sand from falling into the injection tube, the team added extremely porous metal mesh between the tube and the push-to-connect.
 
@@ -249,7 +249,7 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Exclusi
 
 The air bubbles existed in the upper two partitions that were plugged. The next move for the team would be to take steps to understand more about the pressure differential in the apparatus and determine a different way to extract from the filters, because the air bubble problem is not going away without reconsideration.
 
-Another persistent issue is the availability of pumps that can function at a rate as high as the team needs. Also, in the AguaClara filters, it is not customary to have water deliberately pulled from filters, rather than just having it come out on its own at a rate determined by the rate of water going in.
+Another persistent issue was the availability of pumps that  function at a flow rate as high as the system needs. Also, in the AguaClara filters, it was not customary to have water deliberately pulled from filters, rather than just having it come out on its own at a rate determined by the rate of water going in.
 
 #### Trial 4
 This trial solved some problems from Trial 3. Only one pump is necessary to pump water in from the bottom, and the air bubble issue presented itself in a different way. This time, the water level fell to just above the bottom hole.   
