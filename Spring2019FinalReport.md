@@ -1,10 +1,10 @@
 # StaRS FInE, Spring 2019
 #### Lily Falk, Sam Hertle, and Whitney Denison
-#### April 14, 2019
+#### May 10, 2019
 
 ## Abstract
 
-StaRS FInE has worked to develop an improved filter technology for AguaClara outlet pipes.[**a bit redundant no? I would just choose either critical or important**] Filtration is the last step in an AguaClara plant[**Aren't all the steps important? Would consider the clause after "because" and go straight into the next sentence**]. As a result, it is the last opportunity to remove particles that have slipped through all previous treatment processes.
+StaRS FInE has worked to develop an improved filter technology for AguaClara outlet pipes. Filtration is the last step in an AguaClara plant[**Aren't all the steps important? Would consider the clause after "because" and go straight into the next sentence**]. As a result, it is the last opportunity to remove particles that have slipped through all previous treatment processes.
 Prior to StaRS FInE, the outtake pipes used in vertical filtration were problematic because small slits in the pipes would clog with chemical deposits. In order to clean the filters and wash away the deposits, clean water was emptied from the larger outlets to increase outflow velocity through the slots to dislodge the chemicals. In the process, clean water was wasted. StaRS FInE designed an alternative to the outtake pipes, triangular in shape, and therefore referred to as the “Christmas tree” design. The design relied on larger openings to prevent clogs, as well as the gravity exclusion principle to prevent sand from exiting the outlet pipes. The focus of StaRS FInE in the spring of 2019 was to test the three dimensional model printed in the fall of 2019 with sand to find what velocity leads to failure in the form of sand in the outlets.
 
 ## Introduction
@@ -108,13 +108,9 @@ The fourth trial was the first trial with the extraction tubes removed from the 
 
 #### Trial 5
 
-As in the recent trial, the team added dry sand to the empty reactor and then filled the reactor with water. During trial 5 the same flow rate was used as that for trials three and four:
+As in the recent trials, the team added dry sand to the empty reactor and then filled the reactor with water. During trial 5 the same flow rate was used as for trials three and four.
 
-| Injection Flow Rate | Extraction Flow Rate |
-| ------------------- | -------------------- |
-| 220.02 mL/s         | 36.67 mL/s           |
-
-Up to this point, the water successfully flowed from the outlets of the reactor without sand exiting, however the issue remained of air bubbles lodged between the branches of the reactor. The air bubble would move when different holes were blocked. The team hypothesized that this problem was caused by the pressure within the reactor caused by the lid that had been placed on top. In addition, the team presumed that when sand did exit, it was due to a pressure differential caused in that moment by blocking part of the exit. The team considered that in an AguaClara plant, the filter is open to the atmosphere, and as a result decided to remove the lid from the reactor, leaving the top open. The hope was that eliminating the lid would eliminated the air bubbles, which proved successful.
+Up to trial 5, the water had successfully flowed from the outlets of the reactor without sand exiting, however the issue remained of air bubbles lodged between the branches of the reactor. The air bubble would move when different holes were blocked. The team hypothesized that this problem was caused by the pressure within the reactor caused by the lid that had been placed on top. In addition, the team presumed that when sand did exit, it was due to a pressure differential caused in that moment by blocking part of the exit. The team considered the fact that in an AguaClara plant, the filter is open to the atmosphere, and as a result decided to remove the lid from the reactor, leaving the top open. The hope was that eliminating the lid would eliminate the air bubbles. This proved to be correct as will be discussed in the next section.
 
 #### Trial 6
 The main goal for the sixth trial was to generate a system in which the extraction holes and filter were all submerged under water. This task was difficult for the team because there were no longer extraction tubes and it could not simply be submerged in water because of the sand and the need to regulate how much water was coming out.
@@ -254,9 +250,9 @@ Another persistent issue is the availability of pumps that can function at a rat
 #### Trial 4
 This trial solved some problems from Trial 3. Only one pump is necessary to pump water in from the bottom, and the air bubble issue presented itself in a different way. This time, the water level fell to just above the bottom hole.   
 #### Trial 5
-The new apparatus set-up proved successful in dislodging the air bubbles that had previously caused concern. The set up for Trial 5 remained effective in preventing sand from exiting. The new set-up did cause a new concern - once the tank filled to a point above all outlets (with outlets blocked during filling), the water level would drop and exit solely through the bottom most outlet.
+The new apparatus set-up proved successful in dislodging the air bubbles that had previously caused concern. The set up for Trial 5 remained effective in preventing sand from exiting. The new set-up did cause a new issue. Once the tank filled to a point above all outlets (with outlets blocked during filling), the water level would drop and exit solely through the bottom most outlet.
 
-The team suspected that this exit issue was due again to pressure differential, which led to the idea of submerging the outlets, as will be discussed in trial 6.
+The team suspected that this exit issue was due again to a pressure differential, which led to the idea of submerging the outlets, as will be discussed in trial 6.
 
 #### Trial 6
 Trial 6 was incredibly successful for the progress of this project. The submerged system worked seamlessly, and was the most authentic model of true Aguaclara sand filter systems thus far. The team conducted an initial test to see how the cup design would suffice, and, after proving its success, ran the trial at steady state for 30 minutes. This proved that the system could consistently pull water from the exclusion zones without sand also escaping.
@@ -270,10 +266,14 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow
 
 ## Conclusions
 
-Testing the apparatus with sand and water running at filtration speeds made the flaws in the apparatus used for experimentation clear, and has shown that the "Christmas tree" design can handle very high filtration speeds without failure. The second trial showed that the top branch of the filter can handle high velocities of filtration without sand leaving in the outlet pipes, which is encouraging for predicting the success of this design. The third trial stands to show the strength of the exclusion zones that are formed by this design. The fourth, fifth, and sixth trials have been progressively better at simulating how actual AguaClara plants function. There have been many indications that this design will not fail even at forward filtration speeds that are much faster than predicted. Because of the pressure issues that the team has found with the apparatus failures, there have been many tests where all of the water comes out of one outlet branch. This is a problem in testing the whole design, but at the same time, it shows that each branch can handle a filtration speed three times faster than it needs to. This "safety factor" is encouraging as the team considers testing the branched design at Cornell's water treatment plant.
+The spring of 2019 team discovered through experimentation that given all design parameters, it is possible for the stacked rapid filter with injection and extraction to run without allowing sand to escape through the outlets.
+
+Testing the apparatus with sand and water running at filtration speeds made the flaws in the apparatus used for experimentation clear, and the team was able to adapt the apparatus to overcome the initial concerns. The spring of 2019 trials showed that the "Christmas tree" design can handle very high filtration speeds without failure. The second trial showed that the top branch of the filter can handle high velocities of filtration without sand leaving in the outlet pipes, which is encouraging for predicting the success of this design. The third trial stands to show the strength of the exclusion zones that are formed by this design. The fourth, fifth, and sixth trials have progressed to better simulate AguaClara plants. The experiments have repeatedly shown that at the very least, the design will not fail even at forward filtration speeds that are much faster than predicted. Because of the pressure issues that the team has found with the apparatus failures, there have been many tests where all of the water comes out of one outlet branch. This is a problem in testing the whole design, but at the same time, it shows that each branch can handle a filtration speed three times faster than it needs to. This "safety factor" is encouraging as the team considers testing the branched design at Cornell's water treatment plant.
 
 ## Future Work
-Based on the three trials completed so far this semester, the most pressing goal was to have an experiment where water was pulled from all three tubes. With consideration of plant limitations, the team could move forward to testing failure and finding the filtration velocity where sand begins to be pulled out with the water. If this velocity is reasonably high (i.e. much higher than any velocity expected in an AguaClara plant), the team will have a conversation about next steps necessary to implement the design in actual AguaClara plants. If the failure velocity is low or gravity exclusion zones don't form dependably, the team will need to try other designs. Variations of the design may include more or less branches, bigger spaces between branches, or potentially a new design entirely. The next trial would utilize the filter without extraction pumping, and hopefully begin to combat the issue with air and pressure differential.
+Based on the trials completed in the spring of 2019, the next steps will require moving forward to implement this design in a real, full-scale AguaClara plant.
+
+The future team must first establish methods to fabricate the 3D printed shelves on a larger scale. After establishing a new apparatus, the large scale system must be tested before the design enters running plants. It is an exciting time for StaRS FInE.
 
 **[As someone who is not familiar with this subteam I had a really hard time understanding what the terms were, and why certain things were done. I think you guys can do a much better job at fleshing out the report, specifically at the introduction and previous work so that people who aren't as well versed can follow along better. I know that expanding it may seem self-evident, even redundant, to you but everything is neat and organized in your head, having connections between certain subjects that the audience, such as me, may not have. Overall I liked the report. Where the writing lacked, the diagrams helped me get a general idea of what was going on, but the writing could definitely improve.]**
 
