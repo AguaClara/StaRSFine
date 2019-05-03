@@ -289,16 +289,16 @@ For the peristaltic pump regulation calculations, the states were as follows.
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/PCD4.PNG" width= "500"> </p>
 <p align="center">
-  Figure . The list of ProCoDa states using in experimentation.
+  Figure . The list of ProCoDa set points used in experimentation.
 </p>
 
 #### OFF
 The off state was used while the experiments were not run. Because the team only used ProCoDa for calculations, rather than collecting data, these states were not used often.
 
-#### Injection
+#### INJECT
 The INJECT state used the set points *Just Water Flow* and *Water Tubing Size* to take into account the inlet flow rate in mL/s and the tubing size from inlet the peristaltic pump. As demonstrated above in figure ____, the *Just Water Pump* state outputs the value in revolutions per minute (RPM) divided by 100.
 
-#### Extraction
+#### EXTRACT
 The EXTRACT state used the set points *Outlet Flow* and *Outlet Tubing Size* to take into account the outlet flow rate in mL/s and the tubing size from the outlet peristaltic pump.*Outlet Pump*, used in the first three trials only, was setting the outlet flow rate for the peristaltic pump.
 
 
