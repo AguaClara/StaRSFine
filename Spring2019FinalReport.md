@@ -208,6 +208,7 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial1T
 </p>
 
 #### Trial 2
+In this trial, the main change to the experimentation was that the sand was added after the water. This was our first indication of how the exclusion zones would work.
 
 The biggest issue with the second trial was that only the top tube pulled water out. This can be explained by a couple of possibilities. There was water leaking through the middle and bottom tubes, suggesting that they were not watertight and so they may have been pulling air only. The existence of air bubbles within the filter was also indication that there is flaw in the design.
 
@@ -226,7 +227,7 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial2T
 </p>
 
 #### Trial 3
-In the third trial, the team discovered a very promising result for Aguaclara; the extraction pump could pull water out of one layer of the filter without sand in the output. The minimum failure velocity of the exclusion zones, although not yet found, should be greater than the maximum flow rate out of the filter in true Aguaclara plants.
+In the third trial, the team extracted at the high rate only from one extraction tube, rather than all three in the previous trial. The team discovered a very promising result for Aguaclara; the extraction pump could pull water out of one layer of the filter without sand in the output. The minimum failure velocity of the exclusion zones, although not yet found, should be greater than the maximum flow rate out of the filter in true Aguaclara plants.
 
 Although this information is exciting for the team, this trial did not use all three exclusion zones that the original design intended. The optimized filter would pull water from all three of the outlet tubes.
 
@@ -241,9 +242,15 @@ The air bubbles existed in the upper two partitions that were plugged. The next 
 Another persistent issue was the availability of pumps that  function at a flow rate as high as the system needs. Also, in the AguaClara filters, it was not customary to have water deliberately pulled from filters, rather than just having it come out on its own at a rate determined by the rate of water going in.
 
 #### Trial 4
+**picture plz**
+
+**add what makes this trial different**
 This trial solved some problems from Trial 3. Only one pump is necessary to pump water in from the bottom, and the air bubble issue presented itself in a different way. This time, the water level fell to just above the bottom hole.   
+
 #### Trial 5
-The new apparatus set-up proved successful in dislodging the air bubbles that had previously caused concern. The set up for Trial 5 remained effective in preventing sand from exiting. The new set-up did cause a new issue. Once the tank filled to a point above all outlets (with outlets blocked during filling), the water level would drop and exit solely through the bottom most outlet.
+**picture plz**
+
+The new apparatus set-up, which took the lid off the prior apparatus, proved successful in dislodging the air bubbles that had previously caused concern. The set up for Trial 5 remained effective in preventing sand from exiting. The new set-up did cause a new issue. Once the tank filled to a point above all outlets (with outlets blocked during filling), the water level would drop and exit solely through the bottom most outlet.
 
 The team suspected that this exit issue was due again to a pressure differential, which led to the idea of submerging the outlets, as will be discussed in trial 6.
 
