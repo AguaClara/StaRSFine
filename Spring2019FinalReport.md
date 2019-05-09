@@ -13,7 +13,7 @@ The spring of 2019 was StaRS FInE's second semester working on recent improvemen
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Screen%20Shot%202019-05-03%20at%2012.53.21%20PM.png" width= "500"> </p>
 <p align="center">
-  Figure . The slotted pipes used for water extraction in current plants.
+  Figure 1. The slotted pipes used for water extraction in current plants.
 </p>
 
 The team's design was intended to be attached to the outlet pipes as the current slotted pipes are. The design consists of three triangular branches that sit on top of one another, which would be extended to cover the length of the sand filters.
@@ -45,22 +45,22 @@ The apparatus was designed in OnShape last semester, first including a 3D-printe
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/ApparatusOnshape.png" width= "500"> </p>
 <p align="center">
-  Figure 1. The OnShape Drawing of the prototype.
+  Figure 2. The OnShape Drawing of the prototype.
 </p>
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/FIlterDrawing.png" width= "500"> </p>
 <p align="center">
-  Figure 2. The part studio design of the 3D printed filter.
+  Figure 3. The part studio design of the 3D printed filter.
 </p>
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/ApparatusDrawing.png" width= "500"> </p>
 <p align="center">
-  Figure 3. The part studio design of the whole prototype.
+  Figure 4. The part studio design of the whole prototype.
 </p>
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/ApparatusReal.png" width= "700"> </p>
 <p align="center">
-  Figure 4. The apparatus setup with peristaltic pumps and tubing.
+  Figure 5. The apparatus setup with peristaltic pumps and tubing.
 </p>
 
 The experiments up to trial 1 had tested the filter's ability to form sand exclusion zones. Monroe suggested that the team simulate real life AguaClara filter conditions as best as possible. Therefore, it was designed so that the inlet, below the filter, would simulate the injection source for forward filtration.
@@ -112,7 +112,7 @@ The team thought of a small apparatus that would be added on to the current appa
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Onshape6.png" width= "700"> </p>
 <p align="center">
-  Figure . The team's idea to enclose the filter holes; the shape here would be closed on the bottom and allow water to spill over the top.
+  Figure 6. The team's idea to enclose the filter holes; the shape here would be closed on the bottom and allow water to spill over the top.
 </p>
 
 ### Experimental Apparatus Fabrication
@@ -135,7 +135,7 @@ The team made the mistake of filling the apparatus with sand and then inverting 
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/InvertedApparatus.png" width= "350"> </p>
 <p align="center">
-  Figure 5. The colored sand filling the exclusion zones as the apparatus was inverted.
+  Figure 7. The colored sand filling the exclusion zones as the apparatus was inverted.
 </p>
 
 
@@ -147,7 +147,7 @@ Also, to prevent sand from falling into the injection tube, the team added metal
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial2Water.JPG" width= "350"> </p>
 <p align="center">
-  Figure 6. Water filling the apparatus before the addition of sand.
+  Figure 8. Water filling the apparatus before the addition of sand.
 </p>
 
 Using newly calculated flow rates from the experimental design passage above, the apparatus was set up the same way as in the first trial, with detail in respect to the order of addition of sand and water. This also prevented the sand from entering the injection tubing because there was a constant water stream that made use of gravity exclusion. When the sand nearly filled the tube, the upper lid was secured and the extraction began.
@@ -160,13 +160,13 @@ Other than the use of only one extraction hole, the test was conducted in the sa
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial3SetUp.jpeg" width= "350"> </p>
 <p align="center">
-  Figure 7. Sand filling the apparatus before extraction.
+  Figure 9. Sand filling the apparatus before extraction.
 </p>
 #### Trial 4
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/IMG_5276.JPG" width= "500"> </p>
 <p align="center">
-  Figure . The apparatus with a rubber cap and no extraction tubes. Note the formation of clean exclusion zones.
+  Figure 10. The apparatus with a rubber cap and no extraction tubes. Note the formation of clean exclusion zones.
 </p>
 
 The apparatus was filled with water and then sand, then the cap was placed on while the water was still being pumped into the bottom. This initial pressure change of placing a cap on and forcing air into the apparatus and some sand out of the outlet. This suggested that this added pressure was an incorrect way of testing the filter.
@@ -181,7 +181,7 @@ Using PVC-glue, the team secured the bottle half to the apparatus and tested for
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Apparatus%20Design%206.jpeg" width= "500"> </p>
 <p align="center">
-  Figure . The apparatus with the designed half-cup being glued; note the open top and enclosed bottom to be filled with water during the trial.
+  Figure 11. The apparatus with the designed half-cup being glued; note the open top and enclosed bottom to be filled with water during the trial.
 </p>
 
 ### Feasibility of Design and Analysis
@@ -196,13 +196,13 @@ This trial gave the team an indication of how to move on, but it should be noted
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial1Filter.jpg" width= "350"> </p>
 <p align="center">
-  Figure 8. The exclusion zone on the lower structure forming.
+  Figure 12. The exclusion zone on the lower structure forming.
 </p>
 
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial1Tubes.png" width= "350"> </p>
 <p align="center">
-  Figure 9. The extraction tubes pulling water without sand from the lower exclusion zone. Note the top tube was pulling sand from the most failed exclusion zone and the middle was pulling air.
+  Figure 13. The extraction tubes pulling water without sand from the lower exclusion zone. Note the top tube was pulling sand from the most failed exclusion zone and the middle was pulling air.
 </p>
 
 #### Trial 2
@@ -212,7 +212,7 @@ The biggest issue with the second trial was that only the bottom tube pulled wat
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial2Filter.JPG" width= "350"> </p>
 <p align="center">
-  Figure 10. The filter extraction zones during the second trial. Note the air bubbles in between the layers.
+  Figure 14. The filter extraction zones during the second trial. Note the air bubbles in between the layers.
 </p>
 
 The top tube did not have any sand in it and the exclusion zones did exist, in a sense which is an essential insight moving forward. This means that at least one of the gravity exclusion zones formed and was capable of operating at the necessary velocity without failure. In agreement with the first trial, the lowest of the three "branches" was successfully pulling water.
@@ -220,7 +220,7 @@ The top tube did not have any sand in it and the exclusion zones did exist, in a
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial2Tubes.png" width= "450"> </p>
 <p align="center">
-  Figure 11. The extraction tubes during the second trial.
+  Figure 15. The extraction tubes during the second trial.
 </p>
 
 #### Trial 3
@@ -231,7 +231,7 @@ Although this information is exciting for the team, this trial did not use all t
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/ExclusionZonesTrial3.PNG" width= "450"> </p>
 <p align="center">
-  Figure 12. The exclusion zones during the third trial.
+  Figure 16. The exclusion zones during the third trial.
 </p>
 
 The air bubbles persisted in the upper two partitions that were plugged. The next move for the team would be to take steps to understand more about the pressure differential in the apparatus and determine a different way to extract from the filters, because the air bubble problem does not resolve during experimentation.
@@ -240,10 +240,23 @@ Another persistent issue was the availability of pumps that function at a flow r
 
 #### Trial 4
 This trial solved some problems from Trial 3. It was confirmed that only one pump is necessary to pump water in from the bottom, and the air bubble issue presented itself in a different way. This time, the water level fell to just above the bottom hole, so instead of bubbles there was no water in those branches at all. This suggested a deeper issue with the system because of pressure differences between the three branches.
+
+<p align="center"> <img
+src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/NoExtractionTubes.png" width= "350"> </p>
+<p align="center">
+  Figure 17. The apparatus without extraction tubes, filled with water that does not exit the system due to pressure differential.
+</p>
+
 #### Trial 5
 The new apparatus set-up proved successful in dislodging the air bubbles that had previously caused concern. The set up for Trial 5 remained effective in preventing sand from exiting. The new set-up did cause a new issue. Once the tank filled to a point above all outlets (with outlets blocked during filling), the water level would drop and exit solely through the bottom most outlet.
 
 The team suspected that this exit issue was due again to a pressure differential, which led to the idea of submerging the outlets, as will be discussed in trial 6.
+
+<p align="center"> <img
+src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial5Photo.png" width= "350"> </p>
+<p align="center">
+  Figure 18. Water freely flowing form the lowest outlet hole.
+</p>
 
 #### Trial 6
 Trial 6 was incredibly successful for the progress of this project. The submerged system worked seamlessly, and it was the most authentic model of true AguaClara filter thus far. The team conducted an initial test to see that the cup design would suffice, and, after proving its success, ran the trial at steady state for 30 minutes. This proved that the system could consistently pull water from the exclusion zones without sand also escaping.
@@ -251,7 +264,7 @@ Trial 6 was incredibly successful for the progress of this project. The submerge
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlowScreenshot.png" width= "300"> </p>
 <p align="center">
-  Figure . Water, without sand, coming from the outlet cup covering the outlet holes. Note, the water level slightly above the cup, which was unaffected in the long term.
+  Figure 19. Water, without sand, coming from the outlet cup covering the outlet holes. Note, the water level slightly above the cup, which was unaffected in the long term.
 </p>
 
 
@@ -278,7 +291,7 @@ For the peristaltic pump regulation calculations, the states were as follows.
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/PCD4.PNG" width= "500"> </p>
 <p align="center">
-  Figure . The list of ProCoDa set points used in experimentation.
+  Figure 20. The list of ProCoDa set points used in experimentation.
 </p>
 
 #### OFF
