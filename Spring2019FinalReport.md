@@ -81,25 +81,22 @@ In the design of the second experimental apparatus, the team reconsidered the fl
 
 | Injection Flow Rate | Extraction Flow Rate |
 | ------------------- | -------------------- |
-| 220.02 mL/s         | 36.67 mL/s           |
+| 36.67 mL/s         | 36.67 mL/s           |
 
-After trial 1, the team came to understand that the 6 layers of sand filter would be extracting at the same rate. Therefore, the injection flow rate that the team had used previously was not sufficiently large.
+After trial 1, the team came to understand that the 6 layers of sand filter would be extracting at the same rate. Therefore, the flow rate that the team had used previously was not sufficiently large.
 
 Again, more information about these number can be found in the Python code below in the [manual](#Manual).
 
 The team used the same method of filling the prototype to the top before draining and turning off the extraction before the water level reached below the extraction tubes.
 
 #### Trial 3
-After considering the second trial, the team again revisited the flow rates. The team had not considered that the flow rate through the filter would be divided by the 3 outlet holes, leading to some error. Therefore, instead of extracting 36.67 mL/s from all three extraction tubes, each would be attached to a pump extracting at 36.67 mL/s. The Python code for the third trial in the [manual](#Manual) explains how the new flow rate was calculated.
+In anticipation of failure, the team first decided to measure whether only one filter outlet could consistently extract at the flow rate of 36.67 mL/s. To do so, the team planned on stopping flow from the upper two holes and attaching one pump to the injection tube one pump to the extraction tube. Therefore, the apparatus was designed so that the team could monitor the extraction zone and escape of sand into the outlet more closely.
 
-| Injection Flow Rate | Extraction Flow Rate |
-| ------------------- | -------------------- |
-| 220.02 mL/s         | 36.67 mL/s           |
-
-In anticipation of failure, the team first decided to measure whether only one filter outlet could extract at the flow rate. To do so, the team planned on stopping flow from the upper two holes and attaching one pump to the injection tube one pump to the extraction tube. Therefore, the apparatus was designed so that the team could monitor the extraction zone and escape of sand into the outlet more closely.
 #### Trial 4
 
-The fourth trial was the first trial with the extraction tubes removed from the apparatus. In actual AguaClara plants, the water is driven out of the filter by gravity, there are not electric pumps, which is the beauty of AguaClara technology. The team obtained a rubber cap and clamp for the top of the apparatus, thinking that the system would fill up and possibly overflow. It was discovered that this was not a concern because at steady-state, the water level does not rise above the level that the pressure from the atmosphere establishes. This pressure was an issue in this trial because water was only exiting from the bottom branch. If the holes were plugged in order to allow the whole apparatus to fill with water, the water would flow out from the three branches quickly until the water level was only above the last hole again. There was also a problem when the top was placed on during forward filtration that it pushed air into the reactor and forced sand out of the holes. No sand exited when the apparatus was left still and the exclusion zones were allowed to form.
+In actual AguaClara plants, the water is driven out of the filter by gravity, there are not electric pumps. Therefore, the apparatus was changed so that water could freely flow out of the outlets, rather than having tubing and peristaltic pump pulling it out.
+
+The team obtained a rubber cap and clamp for the top of the apparatus, thinking that the system would fill up and possibly overflow. It was discovered that this was not a concern because at steady-state, the water level does not rise above the level that the pressure from the atmosphere establishes. This pressure was an issue in this trial because water was only exiting from the bottom branch. If the holes were plugged in order to allow the whole apparatus to fill with water, the water would flow out from the three branches quickly until the water level was only above the last hole again. There was also a problem when the top was placed on during forward filtration that it pushed air into the reactor and forced sand out of the holes. No sand exited when the apparatus was left still and the exclusion zones were allowed to form.
 
 #### Trial 5
 
@@ -110,7 +107,7 @@ Up to trial 5, the water had successfully flowed from the outlets of the reactor
 #### Trial 6
 The main goal for the sixth trial was to generate a system in which the extraction holes and filter were all submerged under water. This task was difficult for the team because there were no longer extraction tubes and it could not simply be submerged in water because of the sand and the need to regulate how much water was coming out.
 
-Creatively, the team thought of a small apparatus that would be added on to the current apparatus. It would be some kind of cup or box that would surround the extraction holes to be filled with water. Although it would be open at the top to the atmosphere for water to flow out, this technically would submerge the filter system with water and would fix the pressure differential issues between the three branches.
+The team thought of a small apparatus that would be added on to the current apparatus. It would be some kind of cup or box that would surround the extraction holes to be filled with water. Although it would be open at the top to the atmosphere for water to flow out, this technically would submerge the filter system with water and would fix the pressure differential issues between the three branches.
 
 <p align="center"> <img
 src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Onshape6.png" width= "700"> </p>
@@ -227,7 +224,7 @@ src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/Trial2T
 </p>
 
 #### Trial 3
-In the third trial, the team discovered a very promising result. The extraction pump could pull water out of one layer of the filter without sand in the output even when the injection flow rate is calculated for three branches! The minimum failure velocity of the exclusion zones, although not yet found, should be greater than the maximum flow rate out of the filter in true AguaClara plants.
+In the third trial, the team discovered a very promising result. The extraction pump could pull water out of one layer of the filter without sand in the output. The minimum failure velocity of the exclusion zones, although not yet found, should be greater than the maximum flow rate out of the filter in true AguaClara plants.
 
 Although this information is exciting for the team, this trial did not use all three exclusion zones that the original design intended. The optimized filter would pull water from all three of the outlet tubes.
 
@@ -252,7 +249,7 @@ The team suspected that this exit issue was due again to a pressure differential
 Trial 6 was incredibly successful for the progress of this project. The submerged system worked seamlessly, and it was the most authentic model of true AguaClara filter thus far. The team conducted an initial test to see that the cup design would suffice, and, after proving its success, ran the trial at steady state for 30 minutes. This proved that the system could consistently pull water from the exclusion zones without sand also escaping.
 
 <p align="center"> <img
-src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlow.png" width= "300"> </p>
+src="https://raw.githubusercontent.com/AguaClara/StaRSFine/master/Images/CupFlowScreenshot.png" width= "300"> </p>
 <p align="center">
   Figure . Water, without sand, coming from the outlet cup covering the outlet holes. Note, the water level slightly above the cup, which was unaffected in the long term.
 </p>
@@ -315,9 +312,9 @@ $piperough$ : k, pipe roughness
 
 $diamtube$ : tube diameter
 
-
+### Trial 1 Code
 ```Python
-#This code was used for trials 1 and 2
+#This code was used for trials. The error in this code was in the line below assuming that the extraction flow rate would be divided by two.
 import math
 import numpy as np
 import pandas as pd
@@ -359,9 +356,58 @@ N_outlets = 3
 #our apparatus has 3 outlet holes
 lengthfilter = 10 * u.cm
 #the filter has a general cross sectional area of 100
+Q_outlet = (v_filtration*lengthfilter**2/(2*N_outlets)).to(u.mL/u.s)
+#the error was in multiplying the N_outlets by two
+print('The flow rate through one filter outlet is', ut.round_sf(Q_outlet,2))
+```
+
+### Trial 2-6 Code
+```Python
+#This code was used for trials 2 through 6
+import math
+import numpy as np
+import pandas as pd
+from aguaclara.core.units import unit_registry as u
+from aguaclara.core import pipes as pipe
+from aguaclara.core import physchem as pc
+from aguaclara.core import utility as ut
+import aguaclara.design.floc as floc
+from aguaclara.research import floc_model as fm
+
+area = 100*u.cm**2
+#area of the filter bed for simulations
+areamm = area.to(u.mm**2)
+backwashvelocity = 11*u.mm/u.s
+filterflow = (backwashvelocity*areamm*2)/6
+#filterflow is the flow rate of water coming out of each filter
+print(filterflow.to(u.ml/u.s))
+injectionflow = filterflow*6
+#injectionflow is the rate at which the water would come through the filter (all six layers that would be in an aguaclara plant)
+print(injectionflow.to(u.ml/u.s))
+extractionflow = filterflow*2
+#extractionflow is the flow rate at which the team will extract water from the filter because water is coming from above and below the filter
+print(extractionflow.to(u.ml/u.s))
+
+headloss = 1*u.m
+Length = 1*u.m
+temp = 20*u.degC
+Nu = pc.viscosity_kinematic(temp)
+PipeRough = 0.1*u.mm
+KMinor = 2
+#to find the diameter of tube for the three tubes that will come out of our filter
+diamtube = chem.diam_pipe((filterflow/3), headloss, Length, Nu, PipeRough, KMinor)
+print(diamtube.to(u.mm)) #inner diameter of tube we would like to come out
+
+v_filtration = 11 * u.mm/u.s
+#this is the velocity we want to use for extraction of water during the filtration process
+N_outlets = 3
+#our apparatus has 3 outlet holes
+lengthfilter = 10 * u.cm
+#the filter has a general cross sectional area of 100
 Q_outlet = (v_filtration*lengthfilter**2/N_outlets).to(u.mL/u.s)
 print('The flow rate through one filter outlet is', ut.round_sf(Q_outlet,2))
 
+#This portion of the code demonstrates the peristaltic pump abilities
 tubing18 = 3.8 * u.mL/u.revolution
 Maxspeed = 600 * u.revolution/u.min
 Q_pump_max = (Maxspeed * tubing18).to(u.mL/u.s)
@@ -376,7 +422,7 @@ https://cad.onshape.com/documents/2e536bd8940f20fc75058241/w/42817f17b88f823e779
 * 4-inch PVC pipe (obtained from available lab materials)
 * 3-D printed "Chrismas tree" (printed by Paul)
 * Sand (obtained from available lab materials)
-* Water from tap
+* Distilled water from the blue line (available in lab)
 * Peristaltic pump Tubing, size 18 (available in lab)
 * Tubing used in apparatus (available lab materials)
 * Peristaltic Pumps 100-600 RPM
