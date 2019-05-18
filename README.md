@@ -19,3 +19,6 @@ Link to Symposium Presentation Slides from Spring 2019 (https://docs.google.com/
 
 Link to Final Presentation Slides from Spring 2019
 (https://docs.google.com/presentation/d/1qbCw4eMr7gZkya3xyozpFtf0-3lxzBwnoJZxTnMOTbU/edit?usp=sharing)
+
+Link to Final Presentation Video from Spring 2019
+https://www.youtube.com/watch?v=Y5BJtLSR1uU&list=PLhsGtpY8ipdZL4lExJA8KC0zCkaxwfs8R&index=16
